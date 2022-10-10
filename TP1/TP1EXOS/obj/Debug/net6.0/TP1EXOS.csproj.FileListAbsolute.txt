@@ -1,0 +1,15 @@
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.csproj.AssemblyReference.cache
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.GeneratedMSBuildEditorConfig.editorconfig
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.AssemblyInfoInputs.cache
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.AssemblyInfo.cs
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.csproj.CoreCompileInputs.cache
+/home/web/POOLP/TP1/TP1EXOS/bin/Debug/net6.0/TP1EXOS
+/home/web/POOLP/TP1/TP1EXOS/bin/Debug/net6.0/TP1EXOS.deps.json
+/home/web/POOLP/TP1/TP1EXOS/bin/Debug/net6.0/TP1EXOS.runtimeconfig.json
+/home/web/POOLP/TP1/TP1EXOS/bin/Debug/net6.0/TP1EXOS.dll
+/home/web/POOLP/TP1/TP1EXOS/bin/Debug/net6.0/ref/TP1EXOS.dll
+/home/web/POOLP/TP1/TP1EXOS/bin/Debug/net6.0/TP1EXOS.pdb
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.dll
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/ref/TP1EXOS.dll
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.pdb
+/home/web/POOLP/TP1/TP1EXOS/obj/Debug/net6.0/TP1EXOS.genruntimeconfig.cache
