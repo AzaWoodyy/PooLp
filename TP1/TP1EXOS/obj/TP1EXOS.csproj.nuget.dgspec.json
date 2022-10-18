@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/web/POOLP/TP1/TP1EXOS/TP1EXOS.csproj": {}
+    "/home/web/PooLP/TP1/TP1EXOS/TP1EXOS.csproj": {}
   },
   "projects": {
-    "/home/web/POOLP/TP1/TP1EXOS/TP1EXOS.csproj": {
+    "/home/web/PooLP/TP1/TP1EXOS/TP1EXOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/web/POOLP/TP1/TP1EXOS/TP1EXOS.csproj",
+        "projectUniqueName": "/home/web/PooLP/TP1/TP1EXOS/TP1EXOS.csproj",
         "projectName": "TP1EXOS",
-        "projectPath": "/home/web/POOLP/TP1/TP1EXOS/TP1EXOS.csproj",
+        "projectPath": "/home/web/PooLP/TP1/TP1EXOS/TP1EXOS.csproj",
         "packagesPath": "/home/web/.nuget/packages/",
-        "outputPath": "/home/web/POOLP/TP1/TP1EXOS/obj/",
+        "outputPath": "/home/web/PooLP/TP1/TP1EXOS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/web/.nuget/NuGet/NuGet.Config"
