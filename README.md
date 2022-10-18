@@ -9,3 +9,8 @@ dotnet new console
 ```sh
 dotnet run
 ```
+
+### To run tests
+```sh
+dotnet test
+```
